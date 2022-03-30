@@ -1,2 +1,2 @@
-# codewars
-For my CodeWars progress
+# My CodeWars Progress
+This repo is where my coding challenges go.
